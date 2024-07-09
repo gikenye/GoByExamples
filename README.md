@@ -109,7 +109,7 @@ To get started with the examples, make sure you have Go installed on your machin
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/gikenye/GoByExample.git
+git clone https://github.com/gikenye/GoByExamples.git
 cd GoByExample
 ```
 
