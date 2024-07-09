@@ -1,4 +1,4 @@
-# GoByExample 🚀
+# GoByExamples 🚀
 
 Welcome to my GoByExample repository! This repository is part of my journey to learning Go, an open-source programming language designed for building scalable, secure, and reliable software.
 
