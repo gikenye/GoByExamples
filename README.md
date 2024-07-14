@@ -1,4 +1,4 @@
-# GoByExample 🚀
+# GoByExamples 🚀
 
 Welcome to my GoByExample repository! This repository is part of my journey to learning Go, an open-source programming language designed for building scalable, secure, and reliable software.
 
@@ -109,7 +109,7 @@ To get started with the examples, make sure you have Go installed on your machin
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/gikenye/GoByExample.git
+git clone https://github.com/gikenye/GoByExamples.git
 cd GoByExample
 ```
 
